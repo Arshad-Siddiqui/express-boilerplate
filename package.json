@@ -1,11 +1,12 @@
 {
   "name": "express-boilerplate-typescript-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple shell script that gets you an express/typescript app.",
   "private": false,
-  "main": "index.js",
+  "main": "index.sh",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "index.sh"
   },
   "keywords": [
     "script",
