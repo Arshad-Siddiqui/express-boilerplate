@@ -2,6 +2,7 @@
   "name": "@arshadsiddiqui/express-boilerplate",
   "version": "1.0.0",
   "description": "A simple shell script that gets you an express/typescript app.",
+  "private": false,
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -13,5 +14,5 @@
     "quick-start"
   ],
   "author": "Arshad Siddiqui",
-  "license": "MIT"
+  "license": "ISC"
 }
