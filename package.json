@@ -1,5 +1,5 @@
 {
-  "name": "@arshadsiddiqui/express-boilerplate",
+  "name": "express-boilerplate-react-template",
   "version": "1.0.0",
   "description": "A simple shell script that gets you an express/typescript app.",
   "private": false,
