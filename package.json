@@ -1,0 +1,17 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple shell script that gets you an express/typescript app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "script",
+    "express",
+    "typescript",
+    "quick-start"
+  ],
+  "author": "Arshad Siddiqui",
+  "license": "MIT"
+}
